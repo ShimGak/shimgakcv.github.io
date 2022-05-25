@@ -12,7 +12,7 @@ body{
     background: #585c68;
     font-size: 14px;
     line-height: 22px;
-    color: #555555;
+    color: #cccccc;
 }
 
 .bold{
@@ -35,7 +35,7 @@ body{
 
 .cv .cvleft{
     width: 280px;
-    background: #0bb5f4;
+    background: #6c238a;
 }
 
 .cv .cvleft .cvprofile{
@@ -57,16 +57,16 @@ body{
 }
 
 .cv .cvleft .bold{
-  color: #fff;
+  color: rgb(235, 229, 229);
 }
 
 .cv .cvleft .regular{
-  color: #b1eaff;
+  color: #c09dca;
 }
 
 .cv .cvitem{
   padding: 25px 0;
-  border-bottom: 2px solid #b1eaff;
+  border-bottom: 2px solid #885d9c;
 }
 
 .cv .cvleft .cvitem:last-child{
@@ -87,7 +87,7 @@ body{
   width: 35px;
   height: 35px;
   background: #fff;
-  color: #0bb5f4;
+  color: #b39cdf;
   border-radius: 50%;
   margin-right: 15px;
   font-size: 16px;
@@ -102,11 +102,12 @@ body{
 }
 
 .cv .cvleft ul li .data{
-  color: #b1eaff;
+  color: #b39cdf;
 }
 
 .cv .cvleft .cvskills ul li{
-  color: #b1eaff;
+  color: #b39cdf;
+  ;
   justify-content: space-between;
 }
 
@@ -118,7 +119,7 @@ body{
   width: 60%;
   margin: 0 5px;
   height: 5px;
-  background: #009fd9;
+  background: #9a7dc9;
   position: relative;
 }
 
@@ -136,10 +137,10 @@ body{
 
 .cv .cvright{
   width: 520px;
-  background: #fff;
+  background: rgb(71, 71, 71);
   padding: 25px;
 }
 
 .cv .cvright .bold{
-  color: #0bb5f4;
+  color: #cbb6e4;
 }
